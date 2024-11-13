@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SimplyFly_Backend.props" />
+</Project>

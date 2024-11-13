@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using SimplyFly_Backend.Data;
+using SimplyFly_Backend.Models;
 using SimplyFly_Backend.Repositories;
 using System.Text;
 
@@ -14,11 +15,18 @@ namespace SimplyFly_Backend
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-            builder.Services.AddDbContext<MyDbContext>(options =>
-            options.UseSqlServer(builder.Configuration.GetConnectionString("myconnection")));
+            // Add services to the container
 
-            // Add services for dependency injection (add each required service here)
+            // Set up the database context with the connection string from appsettings.json
+            builder.Services.AddDbContext<MyDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("myconnection"))); // Ensure connection string name matches
+
+            // Set up Identity services for user management
+            builder.Services.AddIdentity<User, IdentityRole>()
+                .AddEntityFrameworkStores<MyDbContext>()
+                .AddDefaultTokenProviders();
+
+            // Dependency injection for application services
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<IFlightService, FlightService>();
             builder.Services.AddScoped<IBookingService, BookingService>();
@@ -40,24 +48,28 @@ namespace SimplyFly_Backend
                 });
 
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+            // Add Swagger for API documentation
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
+            // Configure the HTTP request pipeline
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
 
+            // Enable HTTPS redirection
             app.UseHttpsRedirection();
 
+            // Enable authentication and authorization middleware
+            app.UseAuthentication(); 
             app.UseAuthorization();
 
-
+            // Map controllers (use attribute routing)
             app.MapControllers();
 
             app.Run();

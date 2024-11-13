@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,20 +31,56 @@
       "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\migrations\\20241113161316_initial creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:migrations\\20241113161316_initial creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\case study\\simplyfly_backend\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF23C1B-0B92-4343-8EBE-318BCE6175AA}|SimplyFly_Backend.csproj|solutionrelative:dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,13 +98,102 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\Flight.cs",
+              "RelativeToolTip": "Models\\Flight.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wBIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:12:01.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\IBookingService.cs",
+              "RelativeToolTip": "Repositories\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:40:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\FlightService.cs",
+              "RelativeDocumentMoniker": "Repositories\\FlightService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\FlightService.cs",
+              "RelativeToolTip": "Repositories\\FlightService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAEwGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:39:35.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\DTOs\\BookingDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\DTOs\\BookingDto.cs",
+              "RelativeToolTip": "DTOs\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:26:42.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "Controllers\\FlightController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:30:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\UserService.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\UserService.cs",
+              "RelativeToolTip": "Repositories\\UserService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:41:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:57:56.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-08T10:50:38.627Z",
               "EditorCaption": ""
@@ -80,140 +201,150 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\BookingService.cs",
-              "RelativeDocumentMoniker": "Repositories\\BookingService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\BookingService.cs",
-              "RelativeToolTip": "Repositories\\BookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:39:46.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FlightService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\FlightService.cs",
-              "RelativeDocumentMoniker": "Repositories\\FlightService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\FlightService.cs",
-              "RelativeToolTip": "Repositories\\FlightService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:39:35.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\UserService.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\UserService.cs",
-              "RelativeToolTip": "Repositories\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:39:24.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:57:56.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Data\\MyDbContext.cs",
               "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Data\\MyDbContext.cs",
               "RelativeToolTip": "Data\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T10:30:35.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\BookingService.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\BookingService.cs",
+              "RelativeToolTip": "Repositories\\BookingService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:39:46.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241113161316_Initial creation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Migrations\\20241113161316_Initial creation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241113161316_Initial creation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Migrations\\20241113161316_Initial creation.cs",
+              "RelativeToolTip": "Migrations\\20241113161316_Initial creation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:13:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "Models\\Booking.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\Booking.cs",
               "RelativeToolTip": "Models\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:12:39.023Z",
+              "WhenOpened": "2024-11-08T10:12:39.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:20:43.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\Flight.cs",
-              "RelativeDocumentMoniker": "Models\\Flight.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\Flight.cs",
-              "RelativeToolTip": "Models\\Flight.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwC0AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:12:01.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T10:30:42.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:02:05.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T12:17:40.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBookingService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\IBookingService.cs",
-              "RelativeDocumentMoniker": "Repositories\\IBookingService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\IBookingService.cs",
-              "RelativeToolTip": "Repositories\\IBookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwH4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:40:34.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T13:41:21.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\IUserService.cs",
-              "RelativeDocumentMoniker": "Repositories\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\IUserService.cs",
-              "RelativeToolTip": "Repositories\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:40:02.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "IFlightService.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\IFlightService.cs",
               "RelativeDocumentMoniker": "Repositories\\IFlightService.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\Repositories\\IFlightService.cs",
               "RelativeToolTip": "Repositories\\IFlightService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T10:40:17.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlightDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\DTOs\\FlightDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FlightDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\DTOs\\FlightDto.cs",
+              "RelativeToolTip": "DTOs\\FlightDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:46:35.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:31:43.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\DTOs\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Case Study\\SimplyFly_Backend\\DTOs\\UserRegistrationDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegistrationDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:26:13.101Z"
             }
           ]
         }
